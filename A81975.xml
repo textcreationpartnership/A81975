@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An explanation of the Roman Catholicks belief concerning their church, vvorship, iustification, and civil government and their other tenets: as it was presented to some persons of quality, for their particular satisfaction.</title>
+            <author>Franciscus a Sancta Clara, 1598-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81975</idno>
+            <idno type="STC">Wing D352</idno>
+            <idno type="STC">ESTC R229573</idno>
+            <idno type="EEBO-CITATION">99895313</idno>
+            <idno type="PROQUEST">99895313</idno>
+            <idno type="VID">152649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152649)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2311:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An explanation of the Roman Catholicks belief concerning their church, vvorship, iustification, and civil government and their other tenets: as it was presented to some persons of quality, for their particular satisfaction.</title>
+                  <author>Franciscus a Sancta Clara, 1598-1680.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Anno Dom. 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Christopher Davenport (Fransciscus a Sancta Clara). -- Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152649:1"/>
+            <!-- PDF PAGE 29 -->
+            <p>An EXPLANATION OF THE ROMAN CATHOLICKS BELIEF, Concerning Their <hi>Church, VVorſhip, Iuſtification, and civil Govern<g ref="char:EOLhyphen"/>ment</hi> and their other Tenets: <hi>As it was preſented to ſome perſons of Quality, for their particular ſatisfaction.</hi>
+            </p>
+            <p>Anno Dom. 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152649:2"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="1" facs="tcp:152649:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>An Explanation of the <hi>Roman Catholicks</hi> Belief, concerning Their <hi>Church, Worſhip, Iuſtification, civil Government,</hi> and their other Tenets: <hi>As it was preſented to ſome Perſons of Qua<g ref="char:EOLhyphen"/>lity, for their particular ſatisfaction.</hi>
+            </head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> WE believe the holy <hi>Scri<g ref="char:EOLhyphen"/>ptures</hi> to be of Divine inſpiration and infallible Authority; and whatſo<g ref="char:EOLhyphen"/>ever is therein contain<g ref="char:EOLhyphen"/>ed we firmly aſſent unto, as the Word of God, the Authour of all Truth.</p>
+            <p>But ſince in the holy Scriptures there are ſome things hard to be underſtood, which the ignorant and unſtable wreſt to their own deſtruction;<note place="margin">2. Pet. 3.16.</note> we therefore pro<g ref="char:EOLhyphen"/>feſſe (for the ending of controverſies in our Religion, and ſetling of peace in our Conſciences) to ſubmit our private judg<g ref="char:EOLhyphen"/>ments to the Judgement of the Church, repreſented in a free Generall Coun<g ref="char:EOLhyphen"/>cell.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> 2. We humbly believe the ſacred My<g ref="char:EOLhyphen"/>ſterie of the <hi>Bleſſed Trinity,</hi> one Eternall,
+<pb n="2" facs="tcp:152649:3"/>
+               <!-- PDF PAGE 31 -->Almighty, and incomprehenſible God whom onely we adore and worſhip, as a lone having Soveraigne Dominion over all things, to whom onely, we acknow<g ref="char:EOLhyphen"/>ledge as due from men and Angels, all glory,<note place="margin">1. Tim. 1.17.</note> ſervice, and obedience (abhor<g ref="char:EOLhyphen"/>ring from our hearts, as a moſt deteſtable Sacriledge, to give our Greatours ho<g ref="char:EOLhyphen"/>nour to any Creature whatſoever.</p>
+            <p>And therefore we ſolemnly proteſt, that by the prayers we addreſſe to <hi>Angels</hi> and <hi>Saints,</hi> we intend no other than hum<g ref="char:EOLhyphen"/>bly to ſollicite their aſſiſtance before the Throne of God, as we deſire the prayers of one another here upon earth, not that we hope any thing from them, as original Authours thereof, but from God the Fountain of all Goodneſſe, through <hi>Ie<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> our onely Mediatour and Re<g ref="char:EOLhyphen"/>deemer.</p>
+            <p>Neither do we believe any divinity or virtue to be in <hi>Images,</hi> for which they ought to be worſhip't, as the <hi>Gentiles</hi> did their <hi>Idols,</hi> but we retain them with due and decent reſpect in our Churches, as inſtruments, which we finde by expe<g ref="char:EOLhyphen"/>rience, do often aſſiſt our memories, and excite our affections.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> 3. We firmly believe, that no force of
+<pb n="3" facs="tcp:152649:3"/>
+               <!-- PDF PAGE 31 -->nature nor dignity of our beſt works can merit our <hi>Iuſtification,</hi> but we are ju<g ref="char:EOLhyphen"/>ſtified freely by <hi>grace,</hi>
+               <note place="margin">Rom. 3.14.</note> through the Re<g ref="char:EOLhyphen"/>demption that is in <hi>Ieſus Christ.</hi>
+            </p>
+            <p>And although we ſhould by the grace of God perſevere unto the end in a god<g ref="char:EOLhyphen"/>ly life and holy obedience to the Com<g ref="char:EOLhyphen"/>mandements; yet are our hopes of eternall glory ſtill built upon the mercy of God, and the merits of <hi>Chriſt Ieſus.</hi>
+            </p>
+            <p>All other <hi>merits</hi> (according to our ſenſe of that word) ſignifie no more, than Actions done by the aſſiſtance, of Gods grace, to which it has pleaſed his good<g ref="char:EOLhyphen"/>neſſe to promiſe a reward; a Doctrine ſo farre from being unſuitable to the ſenſe of the holy Scriptures, that it is their principall) deſign to invite and provoke us to a diligent obſervance of the <hi>Com<g ref="char:EOLhyphen"/>mandements,</hi> by promiſing heaven as the reward of our obedience, 1 <hi>Tim.</hi> 4.8. Godlineſſe is profitable to all things, ha<g ref="char:EOLhyphen"/>ving the <hi>promiſe</hi> of this life, and of that which is to come, And <hi>Rom.</hi> 2.6. God will render to every man according to his deeds, to them, who by patient, confi<g ref="char:EOLhyphen"/>dence in well-doing, ſeek for glory, and honour, and immortality, eternall life. And again, <hi>Rom.</hi> 8.3. If you live after the fleſh you ſhall die, but is through
+<pb n="4" facs="tcp:152649:4"/>
+               <!-- PDF PAGE 32 -->the ſpirit you mortifie the deeds of the bodie; <hi>you shall live,</hi> And <hi>Heb.</hi> 6.10. God is not unjuſt to forget your work and la<g ref="char:EOLhyphen"/>bour of love, which you have ſhewed for his name, &amp;c, Nothing being ſo frequent<g ref="char:EOLhyphen"/>ly repeated in the Word of God, as his gracious promiſes to recompenſe with everlaſting glory the faith and obedience of his ſervants;<note place="margin">Luke 6.38.</note> Nor is the bounty of God barely according to our works, but high and plentifull, even beyond our ca<g ref="char:EOLhyphen"/>pacities, giving full meaſure, heaped up, preſſed down, and running over into the boſomes of all that love him.</p>
+            <p>Thus we believe the merit or reward<g ref="char:EOLhyphen"/>ableneſſe of holy living (both which ſi<g ref="char:EOLhyphen"/>gnifie the ſame thing with us) ariſes not from the ſelf-value even of our beſt acti<g ref="char:EOLhyphen"/>ons, as they are ours, but from the Grace and Bounty of God;<note place="margin">Luke 17.10.</note> and for our ſelves, we ſincerely profeſſe, when we have done all thoſe things, which are commanded us, we are unprofitable ſervants, having done nothing but that which was our du<g ref="char:EOLhyphen"/>ty, ſo that our boaſting is not in our ſelves, but all our glorying is in <hi>Chriſt.</hi>
+            </p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> 4. In the holy Euchariſt, or moſt vene<g ref="char:EOLhyphen"/>rable Sacrament of the body and bloud of our Lord: We acknowledge that there
+<pb n="5" facs="tcp:152649:4"/>
+               <!-- PDF PAGE 32 -->are, as in all other Sacraments, two things. The viſible ſigne, which is the forms of bread and wine, to which noe Catholick may or doth direct his worſhip. There is alſo inviſible Grace ſignified, the body of our bleſſed Lord, whom being pre<g ref="char:EOLhyphen"/>ſent we adore and worſhip with all poſſi<g ref="char:EOLhyphen"/>ble reverence and thanksgiving from our hearts for ſo great a bleſſing, warranted herein by our bleſſed Lord himſelf in each of the Goſpels.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> 5. We humbly confeſſe that from the be<g ref="char:EOLhyphen"/>ginning of Chriſtianity, the holy Com<g ref="char:EOLhyphen"/>munion was adminiſtred <hi>frequently,</hi> in both, &amp; <hi>ſometimes</hi> in each kind, according to ſeverall circumſtances: and hence the holy Church following the piety of Chri<g ref="char:EOLhyphen"/>ſtians, who inſenſibly became accuſtomed to receive it almoſt univerſally in one kinde, upon great motives did after<g ref="char:EOLhyphen"/>wards ordain to have it in one, as now it is commonly adminiſtred, though the receiving of it ſo is not matter of faith. Neither do we believe that religious and devout communicants, are hereby be<g ref="char:EOLhyphen"/>reaved of any benefit or comfort in o<g ref="char:EOLhyphen"/>beying the Churches orders, ſince our holy belief inſtructs us,<note place="margin">Trid ſeſ. <hi>21.</hi> a n. <hi>3</hi>
+               </note> that our bleſſed Lord the fountain of all grace is as e<g ref="char:EOLhyphen"/>qually
+<pb n="6" facs="tcp:152649:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 33 -->preſent in one kinde as in both.</p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> 6. The holy Sacrifice indeed of the altar we clearly believe ought to be ce<g ref="char:EOLhyphen"/>lebrated in both kinds, as now it is ac<g ref="char:EOLhyphen"/>cording to the divine inſtitution,<note place="margin">Luk. 21.9.</note> as be<g ref="char:EOLhyphen"/>ing done in repreſentation and comme<g ref="char:EOLhyphen"/>moration of our Lords bleſſed paſſion on the croſſe, wherein the body and bloud were ſeparated: Whatſoever therefore propitiatory power our holy Religion attributes to this commemorative Sacri<g ref="char:EOLhyphen"/>fice, it is by virtue of the Sacrifice of the croſſe, as being by this applied to us. This is the ſubſtance of our faith ex<g ref="char:EOLhyphen"/>preſſed in the Councell of Trent,<note place="margin">Seſ. <hi>22.</hi> c. <hi>1.</hi>
+               </note> ſo that ſtill we humbly acknowledge the ground of our ſalvatlon to be derived from our Lords bleſſed and bitter paſſion.</p>
+            <p n="7">
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> 7. We freely acknowledge that is no way commanded by the Church, that the people ſhould pray in a language which they underſtand not, nay, there is given them all poſſible incouragement to en<g ref="char:EOLhyphen"/>creaſe their devotions, and with the A<g ref="char:EOLhyphen"/>poſtle to allure all, if it may be, to conti<g ref="char:EOLhyphen"/>nuall prayer, (which is the life of our ſouls) by ordaining and publiſhing moſt excellent prayers in vulgar languages for their uſe.</p>
+            <pb n="7" facs="tcp:152649:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+            <p>As to the lyturgies they of the Church properly belong to Church-men, and therefore were anciently ſtyled the Prieſts books, leſt the people ſhould not receive full benefit by their publick uſe, there is an expreſſe command of our ho<g ref="char:EOLhyphen"/>ly mother the Church in the Councell of Trent,<note place="margin">
+                  <hi>Seſ.</hi> 5. <hi>c.</hi> 8.</note> that the Paſtours and all who have charge of ſouls, in the very time of di<g ref="char:EOLhyphen"/>vine ſervice, ſhould expound and make them plain to the peoples capacity, as in the old times of the Church we find it was alſo ordained and practiſed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> Our faith teacheth us to exerciſe Chri<g ref="char:EOLhyphen"/>ſtian Charity by humbling our ſelves be<g ref="char:EOLhyphen"/>fore the divine throne of Gods mercy, to begg forgiveneſſe (as we do for one ano<g ref="char:EOLhyphen"/>ther here upon earth) of the debts and treſpaſſes of thoſe middle ſort of Chri<g ref="char:EOLhyphen"/>ſtians, as S. <hi>Augustine</hi> and the Councel of Florence call them,<note place="margin">In En<g ref="char:EOLhyphen"/>chyridie ad Lau<g ref="char:EOLhyphen"/>rentium &amp; De Civ. l. <hi>21.</hi> c. <hi>24.</hi>
+               </note> who had not brought forth ſufficient fruits of repentance, dy<g ref="char:EOLhyphen"/>ing in communion of the faithfull; which indigent condition of theirs, relievable by the Churches, or the prayers of the faithfull ſurviving, ſpeaks what the anci<g ref="char:EOLhyphen"/>ent call Purgatory: warranted herein by the practiſe under the law recorded and recommended in the Maccabees, which
+<pb n="8" facs="tcp:152649:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 34 -->being in no <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort reprehended by our Lord or his Apoſtles amongſt the reſt of the Jews unlawfull practiſes, was and is juſtly preſumed to have been allowed by <hi>him,</hi> as many of the Fathers underſtood his ſermon in the Mount,<note place="margin">Mat. 5.29. 1 Cor. 15.29. 2 Cor. 3.</note> and by <hi>them,</hi> as is hinted by S. <hi>Paul:</hi> whereupon it hath continued ever ſince in generall practiſe throughout all ages, as even graveſtones and all other Chriſtian monuments do witneſſe eſpecially all ancient Lyturgies of the Saints, and books of common prayers uſed in all Churches: neither can we decern how poſſibly this may be conceived offenſive to God, whoſe juſtice herein we hope and do humbly endea<g ref="char:EOLhyphen"/>vour to appeaſe by our exerciſe of bro<g ref="char:EOLhyphen"/>therly compaſſion.</p>
+            <p n="9">
+               <milestone type="tcpmilestone" unit="unspecified" n="IX"/> 9. We firmly believe, and highly re<g ref="char:EOLhyphen"/>verence the <hi>Moral Law,</hi>
+               <note place="margin">Exod. 20. Mat. 19. Eccleſ. 12.13.</note> being ſo ſolemn<g ref="char:EOLhyphen"/>ly delivered to <hi>Moſes</hi> upon the Mount, ſo expreſly confirmed by our Saviour in the Goſpel, and containing in it ſelf ſo per<g ref="char:EOLhyphen"/>fect an Abridgement of our whole duty both to God and man.</p>
+            <p>Which <hi>Morall Law</hi> we believe obliges all men to proceed with faithfulneſſe and ſincerity in their mutuall contracts one towards another; and therefore our con<g ref="char:EOLhyphen"/>ſtant
+<pb n="9" facs="tcp:152649:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 34 -->Profeſſion is, that we are moſt ſtrictly and abſolutely bound to the ex<g ref="char:EOLhyphen"/>act and entire performance of our pro<g ref="char:EOLhyphen"/>miſes, made to any perſon of what Reli<g ref="char:EOLhyphen"/>gion ſoever; much more to the Magi<g ref="char:EOLhyphen"/>ſtrates and Civil Powers, under whoſe pro<g ref="char:EOLhyphen"/>tection we live, whom we are taught by the Word of God to obey, not onely for fear, but conſcience ſake; and to whom we will moſt faithfully obſerve our pro<g ref="char:EOLhyphen"/>miſes of duty and obedience, notwith<g ref="char:EOLhyphen"/>ſtanding any diſpenſation; abſolution, or other proceedings of any forraign Power or Authority whatſoever,</p>
+            <p>Wherefore we utterly deny and re<g ref="char:EOLhyphen"/>nounce that falſe and ſcandalous poſiti<g ref="char:EOLhyphen"/>on, that <hi>Faith is not to be kept with Here<g ref="char:EOLhyphen"/>ticks,</hi> as moſt uncharitably imputed to our practiſes, and moſt unjuſtly pinned upon our Religion.</p>
+            <p>Theſe we ſincerely and ſolemnly profeſſe, as in the ſight of God, the ſearcher of all hearts, taking the words plainly and ſimply, in their uſuall and familiar ſenſe, without any Equivocation or Mentall Reſervation whatſoever.</p>
+            <pb facs="tcp:152649:7"/>
+            <!-- PDF PAGE 35 -->
+            <pb facs="tcp:152649:7"/>
+            <!-- PDF PAGE 35 -->
+         </div>
+      </body>
+   </text>
+</TEI>
